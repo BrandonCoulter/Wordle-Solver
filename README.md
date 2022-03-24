@@ -1,5 +1,5 @@
 # Wordle-Solver
-Simple python script that will solve the daily wordle puzzle for you ensuring your never loose your streak
+Simple python script that will solve the daily wordle puzzle for you, ensuring your never loose your streak
 
 # How to use:
 After opening the script from the terminal type your first guess in and then type each letters corrisponding key:
