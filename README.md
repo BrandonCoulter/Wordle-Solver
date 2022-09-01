@@ -10,4 +10,4 @@ G = Letter is in the word in the correct position (Green)
 
 The script will remove all words that do not meet the requirments leaving a smaller list of possible words.
 
-Repeat the process until the final word or the correct answer is guess.
+Repeat the process until the final word or the correct answer is guessed.
